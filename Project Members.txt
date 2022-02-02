@@ -1,0 +1,8 @@
+	Names :			CMS IDs:		Emails:
+	
+
+	1-> Osama Bin Azam	023-20-0143		osama.bscssef20@iba-suk.edu.pk
+	2-> Ayesha Fatima	023-20-144		hanzlamangi.bscssef20@iba-suk.edu.pk
+	3-> Hanzala Mangi	023-20-0084		ayeshafatima.bscssef20@iba-suk.edu.pk
+	
+
